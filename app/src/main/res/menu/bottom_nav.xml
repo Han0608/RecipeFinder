@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/index"
+      android:icon="@drawable/index"
+      android:title="首页"/>
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/sort"
+        android:title="分类"/>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting"
+        android:title="设置"/>
+    <item
+        android:id="@+id/login"
+        android:icon="@drawable/login"
+        android:title="登录"/>
+</menu>
